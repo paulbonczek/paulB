@@ -1,13 +1,44 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Attack Detection
+description: Residual-based detector
 img: assets/img/12.jpg
 importance: 1
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
+
+<font size="+2.6">Monitoring for Non-Randomness Behavior in Residual-based Detection Schemes</font>
+<br/>
+  
+<!-- <img src="https://pauljbonczek.github.io/files/ACC2020.png" style="float:right;margin:0px 0px 0px 15px" width="350" height="210" /> 
+<p style="font-size:16.8px;"> -->
+    
+Today's autonomous cyber-physical systems are fitted with multiple 
+on-board sensors and computers, allowing for increased capabilities 
+in various applications to perform complex tasks. Consequently, 
+these enhancements increase the risk of cyber attackers to spoofing 
+attacks that can compromise system integrity and safety. With a growing 
+number of vulnerable entry points for attackers on progressively 
+impactful systems within our society, it is imperative to develop more 
+strict security measures to ensure proper performance.</p>
+
+<div style="width:45%; float:right;margin:0px 0px 15px 10px;"><iframe src="https://www.youtube.com/embed/RmWHkTrjJpA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<p style="font-size:16.8px;">Intelligent attackers are able to implement stealthy attack sequences 
+  that hide within system uncertainties in order to remain hidden from 
+  typical state-of-the-art detection techniques. However, to effectively 
+  hijack a system, an attack must create behavior anomalies (i.e., non-randomness) 
+  that contradict the known system model(s). We develop attack detectors 
+  that are able to discover non-random events due to sensor cyber-attacks 
+  in residual-based detection schemes. With our proposed attack detectors 
+  implemented on-board a system, we show that previously undetectable 
+  attacks can now be found. More details about our approaches with simulation 
+  and experiment results can be found in our papers. <a href="https://ieeexplore.ieee.org/document/9147412" target="_blank" rel="noopener noreferrer">[ACC '20]</a>, 
+  <a href="https://www.sciencedirect.com/science/article/pii/S2405896320311642" target="_blank" rel="noopener noreferrer">[IFAC '20]</a>, 
+  and <a href="https://ieeexplore.ieee.org/document/9482962" target="_blank" rel="noopener noreferrer">[ACC '21]</a>.
+</p>
+
+<!-- Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
 
@@ -76,5 +107,5 @@ Here's the code for the last row of images above:
         {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-```
+``` -->
 {% endraw %}
