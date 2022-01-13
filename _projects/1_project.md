@@ -106,5 +106,5 @@ Here's the code for the last row of images above:
         {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-``` -->
-{% endraw %}
+```
+{% endraw %} -->
