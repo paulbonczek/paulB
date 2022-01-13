@@ -2,23 +2,43 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: PhD Candidate at the University of Virginia
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Link Lab</p>
+    <p>Electrical and Computer Engineering Department</p>
+    <p>Charlottesville, VA</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<p style="font-size:16px;">  
+I am currently a Ph.D. candidate in Electrical Engineering at the University of Virginia. I work in the <a href="https://www.bezzorobotics.com/" target="_blank" rel="noopener noreferrer">Autonomous Mobile Robots (AMR) Lab</a> and <a href="https://engineering.virginia.edu/link-lab" target="_blank" rel="noopener noreferrer">Link Lab</a> under the advisement of Prof. <a href="https://www.bezzorobotics.com/nicola-bezzo" target="_blank" rel="noopener noreferrer">Nicola Bezzo</a>. Before joining the AMR Lab, I obtained my B.S. degree dual majoring in Electrical & Computer Engineering and Applied Mathematics at the State University of New York (SUNY) Polytechnic Institute in 2016.</p>
+
+<p style="font-size:16px;">Currently, my research focuses on cyber-physical system cyber-security, 
+runtime attack detection algorithms, and resilient control and planning of single- and multi-agent 
+  autonomous systems. Other research topics that I find interesting and would like to explore in the 
+  future include: adaptive control systems, learning algorithms for robots, machine learning / artificial 
+  intelligence, and predictive modeling of financial markets.</p>
+  
+<!--  <div style="width:50%; margin: 0 auto;"><img src="https://pauljbonczek.github.io/files/UVA_magazine.png" /></div> -->
+
+
+<p style="font-size:16px;">Outside of doing research, I enjoy cooking (especially grilling by the pool), hiking, playing/watching sports, scuba diving, fantasy football, and learning about WWII history. 
+An overview of my interests and accomplishments academically, professionally, and personally are here for you to check out.</p>
+
+
+<p style="font-size:16px;">Within the AMR Lab, our research focuses on how to make cyber-physical systems (which include aerial and mobile ground vehicles) resilient to various adverse environments while operating autonomously. Take a look at the lab <a href="https://www.bezzorobotics.com/">website</a> to see the research performed by the other graduate student members of the lab. The research performed in the AMR Lab was highlighted in a VIRGINIA magazine article in 2017, which can be found <a href="https://uvamagazine.org/articles/robot_take_the_wheel">here</a> and also in a video shoot introducing SPOT, which is the newest addition to the lab.</p>
+
+<div style="width:70%; margin: 0 auto;"><iframe src="https://www.youtube.com/embed/_y5V7sAETrE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
