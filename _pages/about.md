@@ -37,6 +37,11 @@ An overview of my interests and accomplishments academically, professionally, an
 
 <div style="width:70%; margin: 0 auto;"><iframe src="https://www.youtube.com/embed/_y5V7sAETrE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
+<!-- <div style="width:90%;float:right;"><script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=556mbvilml1&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script></div>
+  </div> -->
+
+
+
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
