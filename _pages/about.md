@@ -40,6 +40,44 @@ An overview of my interests and accomplishments academically, professionally, an
 <!-- <div style="width:90%;float:right;"><script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=556mbvilml1&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script></div>
   </div> -->
 
+<!-- UVA ECE Poster Session 
+Electrical & Computer Engineering department's graduate student poster session!
+
+<div id="pdf">
+     <object id="pdf_content" width="100%" height="70px" type="application/pdf" trusted="yes" application="yes" title="Assembly" data="https://pauljbonczek.github.io/files/2019_ECE_UVA.pdf">
+    </object>
+</div>
+
+<a href="https://pauljbonczek.github.io/files/2019_ECE_UVA.pdf" target="_blank" rel="noopener noreferrer">Link</a> to open in a new tab.
+
+-->
+
+
+<!--
+<p>Link Lab "Flash Talk" that highlights our current research.</p>
+
+<div id="pdf">
+     <object id="pdf_content" width="100%" height="72px" type="application/pdf" trusted="yes" application="yes" title="Assembly" data="https://pauljbonczek.github.io/files/LL_Flashtalk.pdf">
+    </object>
+</div>
+
+<a href="https://pauljbonczek.github.io/files/LL_Flashtalk.pdf" target="_blank" rel="noopener noreferrer">Link</a> to open in a new tab.
+-->
+
+
+
+<!--   
+ Finalist for the University of Virginia Engineering Research Symposium, presented virtually.
+
+<div id="pdf">
+     <object id="pdf_content" width="100%" height="70px" type="application/pdf" trusted="yes" application="yes" title="Assembly" data="https://pauljbonczek.github.io/files/2020_UVERS.pdf">
+    </object>
+</div>
+
+<a href="https://pauljbonczek.github.io/files/2020_UVERS.pdf" target="_blank" rel="noopener noreferrer">Link</a> to open in a new tab.
+
+-->
+
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
