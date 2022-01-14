@@ -6,7 +6,7 @@ subtitle: Electrical Engineering PhD Candidate | Cyber-Physical System Security 
 
 profile:
   align: right
-  image: PJB.png
+  image: PJB2.png
   address: >
     <p>Link Lab</p>
     <p>Electrical and Computer Engineering Department</p>
