@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate at the University of Virginia
+subtitle: Electrical Engineering PhD Candidate | Cyber-Physical System Security and Resiliency | University of Virginia
 
 profile:
   align: right
