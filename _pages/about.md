@@ -28,14 +28,13 @@ runtime attack detection algorithms, and resilient control and planning of singl
   
 <!--  <div style="width:50%; margin: 0 auto;"><img src="https://pauljbonczek.github.io/files/UVA_magazine.png" /></div> -->
 
+<p style="font-size:16px;">Within the AMR Lab, our research focuses on how to make cyber-physical systems (which include aerial and mobile ground vehicles) resilient to various adverse environments while operating autonomously. Take a look at the lab <a href="https://www.bezzorobotics.com/">website</a> to see the research performed by the other graduate student members of the lab. The research performed in the AMR Lab was highlighted in a VIRGINIA magazine article in 2017, which can be found <a href="https://uvamagazine.org/articles/robot_take_the_wheel">here</a> and also in a video shoot introducing SPOT, which is the newest addition to the lab.</p>
+
+<div style="width:100%; margin: 0 auto;"><iframe src="https://www.youtube.com/embed/_y5V7sAETrE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <p style="font-size:16px;">Outside of doing research, I enjoy cooking (especially grilling by the pool), hiking, playing/watching sports, scuba diving, fantasy football, and learning about WWII history. 
 An overview of my interests and accomplishments academically, professionally, and personally are here for you to check out.</p>
 
-
-<p style="font-size:16px;">Within the AMR Lab, our research focuses on how to make cyber-physical systems (which include aerial and mobile ground vehicles) resilient to various adverse environments while operating autonomously. Take a look at the lab <a href="https://www.bezzorobotics.com/">website</a> to see the research performed by the other graduate student members of the lab. The research performed in the AMR Lab was highlighted in a VIRGINIA magazine article in 2017, which can be found <a href="https://uvamagazine.org/articles/robot_take_the_wheel">here</a> and also in a video shoot introducing SPOT, which is the newest addition to the lab.</p>
-
-<div style="width:70%; margin: 0 auto;"><iframe src="https://www.youtube.com/embed/_y5V7sAETrE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <!-- <div style="width:90%;float:right;"><script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=556mbvilml1&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script></div>
   </div> -->
