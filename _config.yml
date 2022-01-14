@@ -72,8 +72,7 @@ stackoverflow_id: #your stackoverflow id
 rss_icon: true
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you. <div><script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=52lyyjbq3hw&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=1&amp;s=170" async="async"></script>
-</div>
+  You can even add a little note about which of these is the best way to reach you. <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=52lyyjbq3hw&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=1&amp;s=170" async="async"></script>
 
 google_analytics:  # your google-analytics ID (format: UA-XXXXXXXXX)
 google_site_verification:  # your google-site-verification ID (Google Search Console)
