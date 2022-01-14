@@ -20,10 +20,10 @@ intercept safety-critical information. We propose to utilize a side-channel info
 exchange that contains hidden data for vehicles in the network to detect that is unknown 
 to potential attackers.</p>
 
-<!-- <div style="width:45%; float:right;margin:0px 0px 0px 10px;"><iframe src="https://www.youtube.com/embed/q4Fm4FR9Aqw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-<p style="font-size:16.8px;"> -->
+<div style="width:45%; float:right;margin:0px 0px 0px 10px;"><iframe src="https://www.youtube.com/embed/q4Fm4FR9Aqw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<p style="font-size:16.8px;">
   
-  Virtual spring-damper meshes for proximity-based formation control are leveraged for both 
+Virtual spring-damper meshes for proximity-based formation control are leveraged for both 
 detection of misbehaving vehicles and also any hidden signatures that are being passed 
 from nearby vehicles. In our work, we apply our framework to applications where mobile 
 robotic teams relay safety-critical information concerning any discovered object of interest 
