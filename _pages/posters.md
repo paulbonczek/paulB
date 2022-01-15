@@ -24,21 +24,21 @@ display_categories: [posters]
   {% endfor %}
 
 {%- else -%}
-<!-- Display projects without categories -->
-  {%- assign sorted_projects = site.projects | sort: "importance" -%}
-  <!-- Generate cards for each project -->
+<!-- Display posters without categories -->
+  {%- assign sorted_posters = site.posters | sort: "importance" -%}
+  <!-- Generate cards for each poster -->
   {% if page.horizontal -%}
   <div class="container">
     <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
+    {%- for poster in sorted_posters -%}
+      {% include posters_horizontal.html %}
     {%- endfor %}
     </div>
   </div>
   {%- else -%}
   <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
+    {%- for poster in sorted_posters -%}
+      {% include posters.html %}
     {%- endfor %}
   </div>
   {%- endif -%}
