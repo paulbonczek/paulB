@@ -38,9 +38,7 @@ strict security measures to ensure proper performance.</p>
   and <a href="https://ieeexplore.ieee.org/document/9482962" target="_blank" rel="noopener noreferrer">[ACC '21]</a>.
 </p>
 
-$$
-\sum_{k=1}^\infty |\langle x, e_k \rangle|^2 \leq \|x\|^2
-$$
+
 
 <!-- Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
