@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 2
-description: Multi-robot Resiliency
+title: Multi-robot Resiliency
+description: TRO 2021
 img: assets/img/tro_intro.png
 importance: 2
 category: published work
