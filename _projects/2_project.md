@@ -1,7 +1,7 @@
 ---
 layout: page
 title: project 2
-description: a project with a background image
+description: Multi-robot Resiliency
 img: assets/img/tro_intro.png
 importance: 2
 category: published work
