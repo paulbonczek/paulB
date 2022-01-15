@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Attack Detection
+title: Sensor Attack Detection
 description: Residual-based detector
-img: assets/img/into.png
+img: assets/img/intro.png
 importance: 1
 category: published work
 ---
