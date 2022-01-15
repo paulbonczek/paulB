@@ -2,7 +2,7 @@
 layout: page
 title: Hidden Signatures
 description: IROS 2021
-img: assets/img/IROS_PAUL_intro2.png
+img: assets/img/IROS21_PAUL_intro2.png
 importance: 3
 category: published work
 ---
