@@ -7,7 +7,7 @@ years: [2021, 2020]
 nav: true
 ---
 <!-- _pages/publications.md -->
-To see a more up-to-date list of my publications, click <a href="https://scholar.google.com/citations?user=V5MrsL8AAAAJ&hl=en" target="_blank" rel="noopener noreferrer">here</a> to view my Google Scholar.
+To see a more up-to-date list of my publications, please check out my <a href="https://scholar.google.com/citations?user=V5MrsL8AAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a>!
 <div class="publications">
 
 {%- for y in page.years %}
