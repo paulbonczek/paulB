@@ -4,7 +4,7 @@ title: project 2
 description: a project with a background image
 img: assets/img/tro_into.png
 importance: 2
-category: work
+category: published work
 ---
  
 <font size="+2.6">Detection of Non-Random Behavior for Resilient Coordination of Robotic Swarms</font> 
