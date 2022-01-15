@@ -5,9 +5,9 @@ date: 2021-07-21 16:11:00-0400
 inline: true
 ---
 
-Our paper titled "Detection and Inference of Randomness-based Behavior for Resilient <br>
-Multi-vehicle Coordinated Operations" has been accepted to the IEEE/RSJ International <br>
-Conference on Intelligent Robots and Systems (IROS). <a href="https://arxiv.org/pdf/2104.15101.pdf" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer">PDF</a>
+Our <a href="https://arxiv.org/pdf/2104.15101.pdf" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer">paper</a> titled "Detection and Inference of Randomness-based Behavior for Resilient <br>
+Multi-vehicle Coordinated Operations" has been accepted for publication to the IEEE/RSJ <br>
+International Conference on Intelligent Robots and Systems (IROS).
 
 <!-- Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
 
