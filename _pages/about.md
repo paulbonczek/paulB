@@ -33,7 +33,7 @@ runtime attack detection algorithms, and resilient control and planning of singl
 
 
 <!-- <div style="width:100%; margin: 0 auto;"> -->
-<div style="width:150%; margin-left:145px;"><iframe src="https://www.youtube.com/embed/_y5V7sAETrE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div style="width:90%; margin-left: auto; margin-right: auto;"><iframe src="https://www.youtube.com/embed/_y5V7sAETrE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <p style="font-size:16px;">Outside of doing research, I enjoy cooking (especially grilling by the pool), hiking, playing/watching sports, scuba diving, fantasy football, and learning about WWII history. 
 An overview of my interests and accomplishments academically, professionally, and personally are here for you to check out.</p>
