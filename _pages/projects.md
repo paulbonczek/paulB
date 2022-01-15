@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-permalink: /projects/
+permalink: /research/
 description: A collection of past and present works.
 nav: true
 display_categories: [published work]
