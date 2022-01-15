@@ -30,7 +30,9 @@ runtime attack detection algorithms, and resilient control and planning of singl
 
 <p style="font-size:16px;">Within the AMR Lab, our research focuses on how to make cyber-physical systems (which include aerial and mobile ground vehicles) resilient to various adverse environments while operating autonomously. Take a look at the lab <a href="https://www.bezzorobotics.com/">website</a> to see the research performed by the other graduate student members of the lab. The research performed in the AMR Lab was highlighted in a VIRGINIA magazine article in 2017, which can be found <a href="https://uvamagazine.org/articles/robot_take_the_wheel">here</a> and also in a video shoot introducing SPOT, which is the newest addition to the lab.</p>
 
-<div style="width:100%; margin: 0 auto;"><iframe src="https://www.youtube.com/embed/_y5V7sAETrE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+<!-- <div style="width:100%; margin: 0 auto;"> -->
+<div style="width:120%; margin-left:45px;"><iframe src="https://www.youtube.com/embed/_y5V7sAETrE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <p style="font-size:16px;">Outside of doing research, I enjoy cooking (especially grilling by the pool), hiking, playing/watching sports, scuba diving, fantasy football, and learning about WWII history. 
 An overview of my interests and accomplishments academically, professionally, and personally are here for you to check out.</p>
