@@ -2,7 +2,7 @@
 layout: page
 title: project 2
 description: a project with a background image
-img: assets/img/tro_into.png
+img: assets/img/tro_intro.png
 importance: 2
 category: published work
 ---
