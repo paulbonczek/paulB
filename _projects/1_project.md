@@ -4,7 +4,7 @@ title: Attack Detection
 description: Residual-based detector
 img: assets/img/into.png
 importance: 1
-category: work
+category: published work
 ---
 
 
