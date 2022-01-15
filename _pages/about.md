@@ -17,7 +17,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<br>
 
 <p style="font-size:16px;">  
 I am currently a Ph.D. candidate in Electrical Engineering at the University of Virginia. I work in the <a href="https://www.bezzorobotics.com/" target="_blank" rel="noopener noreferrer">Autonomous Mobile Robots (AMR) Lab</a> and <a href="https://engineering.virginia.edu/link-lab" target="_blank" rel="noopener noreferrer">Link Lab</a> under the advisement of Prof. <a href="https://www.bezzorobotics.com/nicola-bezzo" target="_blank" rel="noopener noreferrer">Nicola Bezzo</a>. Before joining the AMR Lab, I obtained my B.S. degree dual majoring in Electrical & Computer Engineering and Applied Mathematics at the State University of New York (SUNY) Polytechnic Institute in 2016.</p>
