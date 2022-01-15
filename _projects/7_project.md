@@ -4,7 +4,7 @@ title: Hidden Signatures
 description: IROS 2021
 img: assets/img/IROS_PAUL_intro2.png
 importance: 3
-category: work
+category: published work
 ---
  
 <font size="+2.6">Detection and Inference of Randomness-based Behavior for Resilient Multi-vehicle Coordinated Operations</font> 
