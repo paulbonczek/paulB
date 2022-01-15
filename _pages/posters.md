@@ -3,7 +3,7 @@ layout: page
 title: Posters
 permalink: /posters/
 description: A list of my posters while at UVA.
-nav: false
+nav: true
 display_categories: [posters]
 ---
 
