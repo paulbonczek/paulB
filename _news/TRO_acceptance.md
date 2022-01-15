@@ -5,9 +5,8 @@ inline: true
 ---
 
 Our paper titled "Detection of Non-Random Sign-based Behavior for Resilient Coordination <br> 
-of Robotic Swarms" has been accepted to the IEEE Transactions on <br>
-Robotics (T-RO) and will be included in the Special Issue for Resilience in <br>
-Networked Robotic Systems. <a href="https://drive.google.com/file/d/1lo8p6Q-6jfJ2I4PlddqhCsTKIx81qHJ0/view?usp=sharing" target="_blank" rel="noopener noreferrer">PDF</a>
+of Robotic Swarms" has been accepted to the IEEE Transactions on Robotics (T-RO) and will <br>
+be included in the Special Issue for Resilience in Networked Robotic Systems. <a href="https://drive.google.com/file/d/1lo8p6Q-6jfJ2I4PlddqhCsTKIx81qHJ0/view?usp=sharing" target="_blank" rel="noopener noreferrer">PDF</a>
 
 <!-- A simple inline announcement with Markdown emoji! :sparkles: :smile: -->
 
