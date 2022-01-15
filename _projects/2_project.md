@@ -4,7 +4,6 @@ title: Multi-robot Resiliency
 description: TRO 2021
 img: assets/img/tro_intro.png
 importance: 2
-category: published work
 ---
  
 <font size="+2.6">Detection of Non-Random Behavior for Resilient Coordination of Robotic Swarms</font> 
