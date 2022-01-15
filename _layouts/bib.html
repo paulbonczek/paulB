@@ -40,9 +40,11 @@
             
             {%- if forloop.length == 1 -%}
               {%- if author_is_self %}
-                <em>{{author.last}}, {{author.first}}</em>
+                <!-- <em>{{author.last}}, {{author.first}}</em> -->
+                <em>{{author.first}}, {{author.last}}</em>
               {%- else -%}
-                {{author.last}}, {{author.first}}
+                <!-- <em>{{author.last}}, {{author.first}}</em> -->
+                {{author.first}}, {{author.last}}
               {%- endif -%}
             {%- else -%}
               {%- unless forloop.last -%}
