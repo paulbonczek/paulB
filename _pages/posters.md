@@ -4,7 +4,7 @@ title: Posters
 permalink: /posters/
 description: A collection of past and present works.
 nav: true
-display_categories: [posters]
+display_categories: [UVA]
 horizontal: false
 ---
 
