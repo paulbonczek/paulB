@@ -69,11 +69,9 @@
                   {%- endif -%}
                 </a>
               </li>  
-                
+ 
               
-              
-              <!-- Other pages -->
-              <!--
+              <!-- Dropdown (submenus) pages -->
               {%- assign sorted_pages = site.pages | sort: "title" -%}
               {%- for p in sorted_pages -%}
               {%- if p.nav and p.autogen == nil -%}
@@ -94,19 +92,12 @@
                   {% endfor %}
                 </div>
               </li>
-              {%- else %}
-              <li class="nav-item {% if page.title == p.title %}active{% endif %}">
-                <a class="nav-link" href="{{ p.url | relative_url }}">{{ p.title }}
-                  {%- if page.title == p.title -%}
-                  <span class="sr-only">(current)</span>
-                  {%- endif -%}
-                </a>
-              </li>
               {%- endif -%}
               {%- endif -%}
-              {% endfor -%} -->
+              {% endfor -%}
+                
+                
               {%- if site.enable_darkmode %}
-
               <!-- Toogle theme mode -->
               <div class = "toggle-container">
                 <a id = "light-toggle">
