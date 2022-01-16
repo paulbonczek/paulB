@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Other
-nav: false
+nav: true
 dropdown: true
 children: 
     - title: Posters
