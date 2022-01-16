@@ -6,6 +6,12 @@ description: 2020
 nav: false
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+<font size="+2.6">UVERS 2020 Poster</font> 
+  <br/>
 
-Organize your courses by years, topics, or universities, however you like!
+<div id="pdf">
+     <object id="pdf_content" width="100%" height="70px" type="application/pdf" trusted="yes" application="yes" title="Assembly" data="https://paulbonczek.github.io/assets/pdf/2020_UVERS.pdf">
+    </object>
+</div>
+
+<!-- <a href="https://pauljbonczek.github.io/files/2020_UVERS.pdf" target="_blank" rel="noopener noreferrer">Link</a> to open in a new tab. -->
