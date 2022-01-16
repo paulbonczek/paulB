@@ -19,7 +19,7 @@ Under construction.
 <!-- <hr width="500px;" color="#828282" size="10"> -->
 <hr color="#828282">
 
-<h4><b>UVA ECE Poster Session</b></h4> 
+<h4><b><a href="https://paulbonczek.github.io/ECE2019/" >UVA ECE Poster Session</a></b></h4> 
 <i>Presented on September 24th, 2019</i>
 
 <ul>
