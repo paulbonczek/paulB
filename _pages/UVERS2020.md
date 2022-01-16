@@ -1,16 +1,13 @@
 ---
 layout: page
 permalink: /UVERS2020/
-title: UVERS
-description: 2020
+title: University of Virginia Engineering Symposium (UVERS) 2020
+description: Virtually presented on April 7th, 2020
 nav: false
 ---
 
-<font size="+2.6">UVERS 2020 Poster</font> 
-  <br/>
-
 <div id="pdf">
-     <object id="pdf_content" width="100%" height="70px" type="application/pdf" trusted="yes" application="yes" title="Assembly" data="https://paulbonczek.github.io/assets/pdf/2020_UVERS.pdf">
+     <object id="pdf_content" width="100%" type="application/pdf" trusted="yes" application="yes" title="Assembly" data="https://paulbonczek.github.io/assets/pdf/2020_UVERS.pdf">
     </object>
 </div>
 
