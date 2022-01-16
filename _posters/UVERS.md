@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /posters/UVERS2020/
+permalink: /UVERS2020/
 title: UVERS
 description: 2020
 importance: 1
