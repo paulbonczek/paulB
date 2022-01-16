@@ -7,7 +7,7 @@ nav: false
 ---
 
 <div id="pdf">
-     <object id="pdf_content" width="100%" height="600" type="application/pdf" trusted="yes" application="yes" title="Assembly" data="https://paulbonczek.github.io/assets/pdf/2020_UVERS.pdf">
+     <object id="pdf_content" width="100%" height="550" type="application/pdf" trusted="yes" application="yes" title="Assembly" data="https://paulbonczek.github.io/assets/pdf/2020_UVERS.pdf">
     </object>
 </div>
 
