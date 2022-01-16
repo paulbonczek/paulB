@@ -1,6 +1,5 @@
 ---
 layout: page
-permalink: /LL_flashtalk/
 title: Link Lab Flashtalk
 description: 2020
 importance: 1
