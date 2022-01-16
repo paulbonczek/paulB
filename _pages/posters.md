@@ -9,7 +9,7 @@ nav: false
 Under construction.
 
 
-<h4><b><a href="https://paulbonczek.github.io/assets/pdf/2020_UVERS.pdf" >University of Virginia Engineering Research Symposium (UVERS)</b></h4> 
+<h4><b><a href="https://paulbonczek.github.io/assets/pdf/2020_UVERS.pdf" >University of Virginia Engineering Research Symposium (UVERS)</a></b></h4> 
 <i>Virtually presented on April 7th, 2020</i>
 
 <ul>
