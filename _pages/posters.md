@@ -9,7 +9,9 @@ nav: false
 Under construction.
 
 
-<h2><b>University of Virginia Engineering Research Symposium (UVERS)</b></h2> 
+<h3><b><a href="https://paulbonczek.github.io/posters/UVERS2020/" >University of Virginia Engineering Research Symposium (UVERS)</a></b></h3> 
 <i>Virtually presented on April 7th, 2020</i>
 
-Voted as a finalist for the poster session.
+<ul>
+  <li>Voted as a finalist for the poster session.</li>
+</ul>
