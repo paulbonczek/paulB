@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: Electrical Engineering PhD Candidate | Cyber-Physical System Security and Resiliency | University of Virginia
+subtitle: Electrical Engineering PhD Candidate | Cyber-Physical System Security and Resiliency
 
 profile:
   align: right
   image: PJB2.png
   address: >
     <p>Link Lab</p>
-    <p>Electrical and Computer Engineering Department</p>
+    <p>University of Virginia</p>
     <p>Charlottesville, VA</p>
 
 news: true  # includes a list of news items
