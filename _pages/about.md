@@ -2,13 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: Electrical Engineering PhD Candidate | Cyber-Physical System Security and Resiliency
+subtitle: Electrical Engineering PhD Candidate | Cyber-Physical Systems | Security | Robotics | Control Theory
 
 profile:
   align: right
   image: PJB2.png
   address: >
-    <p>Link Lab</p>
+    <p>AMR Lab and Link Lab</p>
     <p>University of Virginia</p>
     <p>Charlottesville, VA</p>
 
