@@ -12,9 +12,9 @@
   title={Detection of Nonrandom Sign-Based Behavior for Resilient Coordination of Robotic Swarms}, 
   year={2022},
   abstract={Cooperative multirobot systems coordinate their motion by exchanging information through consensus schemes to achieve a common goal. In the event of stealthy cyber attacks, compromised measurements and communication broadcasts can hijack a portion or the entire system toward undesired states. However, in order for these attacks to be effective, they have to exhibit nonrandom characteristics that contradict the expected multirobot system behavior. To deal with these hidden attacks, we propose a runtime monitoring framework that considers the signed residual, defined as the difference between the expected and the received information to identify and isolate unexpected nonrandom behavior within the multirobot system. Specifically, the technique that we propose—named Cumulative Sign detector—monitors and compares changes in signed values of residual with their expected occurrences to detect inconsistencies and trigger alarms when an attack is discovered. Our results are validated theoretically by providing detection bounds and are demonstrated with simulations and experiments on swarms of unmanned ground vehicles under different attacks in comparison with state-of-the-art residual-based detection schemes.},
-  volume={},
-  number={},
-  pages={1-18},
+  volume={38},
+  number={1},
+  pages={92-109},
   doi={10.1109/TRO.2021.3139592},
   pdf={https://ieeexplore.ieee.org/document/9686360},
   selected={true}
@@ -65,6 +65,7 @@
   number={2},
   pages={838-844},
   doi={10.1016/j.ifacol.2020.12.840},
+  pdf={https://www.sciencedirect.com/science/article/pii/S2405896320311642},
   abstract = {Stealthy false data injection attacks on cyber-physical systems introduce erroneous measurements onto sensors with the intent to degrade system performance. An intelligent attacker can design stealthy attacks with knowledge of the system model and noise characteristics to evade detection from state-of-the-art fault detectors by remaining within detection thresholds. However, during these hidden attacks, an attacker with the intention of hijacking a system will leave traces of non-random behavior that contradict with the expectation of the system model. Given these premises, in this paper we propose a run-time monitor called Cumulative Sign (CUSIGN) detector, for identifying stealthy falsified measurements by identifying if measurements are no longer behaving in a random manner. Specifically, our proposed CUSIGN monitor considers the changes in sign of the measurement residuals and their expected occurrence in order to detect if a sensor could be compromised. Moreover, our detector is designed to be a memoryless procedure, eliminating the need to store large sequences of data for attack detection. We characterize the detection capabilities of the proposed CUSIGN technique following the well-known X2 failure detection scheme. Additionally, we show the advantage of augmenting CUSIGN to the model-based Cumulative Sum (CUSUM) detector, which provides magnitude bounds on attacks, for enhanced detection of sensor spoofing attacks. Our approach is validated with simulations on an unmanned ground vehicle (UGV) during a navigation case study.}
 }
 
