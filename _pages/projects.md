@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 description: A collection of past and present works.
 nav: true
-display_categories: [published work, Current Work]
+display_categories: [Published Works, Current Work]
 horizontal: false
 ---
 
