@@ -1,0 +1,27 @@
+---
+layout: page
+title: IFAC 2020
+description: Cumulative Sign Detector
+importance: 2
+---
+
+
+<font size="+2.6">Detection of Hidden Attacks on Cyber-Physical Systems from Serial Magnitude and Sign Randomness Inconsistencies</font>
+<br/>
+
+Stealthy false data injection attacks on cyber-physical systems (CPSs) introduce erroneous measurement information to on-board sensors with the purpose to degrade system performance. An intelligent attacker is able to leverage knowledge of the system model and noise characteristics to alter sensor measurements while remaining undetected. Consequently, an attacker that wants to remain hidden from traditional detection techniques will leave behind traces of serial inconsistencies. We assume a system employs a chi-square fault detection procedure that monitors the magnitude and signed sequence of its chi-square test measure.
+
+
+<div class="row row-cols-1 justify-content-center">
+    <!-- <div class="col-sm mt-3 mt-md-0"> -->
+    <div class="col-7">
+        {% include figure.html path="assets/img/AttackDiagram_ACC2021.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    The Serial Detector is placed in the system feedback to monitor the test measure.
+</div>
+
+
+
+Typical on-board fault detection mechanisms leverage an alarm-based system, such that during nominal conditions the rate of alarm triggers follows a desired alarm rate. Hidden attacks can be defined as designed attack sequences where the attack detector's alarm rate behaves in the same manner as during nominal, attack-free conditions.
