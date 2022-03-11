@@ -2,7 +2,7 @@
 layout: page
 title: Research
 permalink: /research/
-description: A collection of past and present works.
+description: A collection of past research papers and my on-going PhD projects.
 nav: true
 display_categories: [Published Works, Current Work]
 horizontal: false
