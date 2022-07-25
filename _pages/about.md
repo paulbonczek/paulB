@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Electrical Engineering PhD Candidate | Cyber-Physical Systems | Security | Robotics | Control Theory
+subtitle: Electrical Engineering PhD Candidate | Autonomous Systems | Resiliency & Safety | Robotics | Control Theory
 
 profile:
   align: right
@@ -21,11 +21,11 @@ social: true # includes social icons at the bottom of the page
 <p style="font-size:16px;">  
 I am currently a Ph.D. candidate in Electrical Engineering at the University of Virginia. I work in the <a href="https://www.bezzorobotics.com/" target="_blank" rel="noopener noreferrer">Autonomous Mobile Robots (AMR) Lab</a> and <a href="https://engineering.virginia.edu/link-lab" target="_blank" rel="noopener noreferrer">Link Lab</a> under the advisement of Prof. <a href="https://www.bezzorobotics.com/nicola-bezzo" target="_blank" rel="noopener noreferrer">Nicola Bezzo</a>. Before joining the AMR Lab, I obtained my B.S. degree dual majoring in Electrical & Computer Engineering and Applied Mathematics at the State University of New York (SUNY) Polytechnic Institute in 2016.</p>
 
-<p style="font-size:16px;">Currently, my research focuses on cyber-physical system cyber-security, 
+<p style="font-size:16px;">Currently, my research focuses on cyber-physical system resiliency and safety, 
 runtime attack detection algorithms, and resilient control and planning of single- and multi-agent 
   autonomous systems. Other research topics that I find interesting and would like to explore in the 
-  future include: adaptive control systems, learning algorithms for robots, machine learning / artificial 
-  intelligence, and predictive modeling of financial markets.</p>
+  future include: adaptive systems, learning algorithms for robots, machine learning / artificial 
+  intelligence, and robust state estimation in GPS-denied environments.</p>
   
 <!--  <div style="width:50%; margin: 0 auto;"><img src="https://pauljbonczek.github.io/files/UVA_magazine.png" /></div> -->
 
@@ -35,7 +35,7 @@ runtime attack detection algorithms, and resilient control and planning of singl
 <!-- <div style="width:100%; margin: 0 auto;"> -->
 <div style="width: 90%; margin-left: auto; margin-right: auto;"><iframe width="560" height="315" src="https://www.youtube.com/embed/_y5V7sAETrE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-<p style="font-size:16px;">Outside of doing research, I enjoy cooking (especially grilling by the pool), hiking, playing/watching sports, scuba diving, fantasy football, and learning about WWII history. 
+<p style="font-size:16px;">Outside of doing research, I enjoy cooking, hiking, playing/watching sports (especially pickleball), scuba diving, fantasy football, and learning about WWII history. 
 An overview of my interests and accomplishments academically, professionally, and personally are here for you to check out.</p>
 
 
