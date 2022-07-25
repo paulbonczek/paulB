@@ -6,7 +6,7 @@ description: Curriculum Vitae
 nav: true
 ---
 
-Click <a href="https://paulbonczek.github.io/assets/pdf/Bonczek_CV_0422.pdf" target="_blank" rel="noopener noreferrer">here</a> to view my CV.
+For mobile devices, click <a href="https://paulbonczek.github.io/assets/pdf/Bonczek_CV_0422.pdf" target="_blank" rel="noopener noreferrer">here</a> to view my CV.
 
 <object data="https://paulbonczek.github.io/assets/pdf/Bonczek_CV_0422.pdf" type="application/pdf" width="700px" height="900px">
     <embed src="https://paulbonczek.github.io/assets/pdf/Bonczek_CV_0422.pdf">
