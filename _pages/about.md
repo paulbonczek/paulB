@@ -23,9 +23,9 @@ I am currently a Ph.D. candidate in Electrical Engineering at the University of 
 
 <p style="font-size:16px;">Currently, my research focuses on cyber-physical system resiliency and safety, 
 runtime attack detection algorithms, and resilient control and planning of single- and multi-agent 
-  autonomous systems. Other research topics that I find interesting and would like to explore in the 
-  future include: adaptive systems, learning algorithms for robots, machine learning / artificial 
-  intelligence, and robust state estimation in GPS-denied environments.</p>
+autonomous systems. Other research topics that I find interesting and would like to explore in the 
+future include: adaptive systems, learning algorithms for robots, machine learning / artificial 
+intelligence, and robust state estimation in GPS-denied environments.</p>
   
 <!--  <div style="width:50%; margin: 0 auto;"><img src="https://pauljbonczek.github.io/files/UVA_magazine.png" /></div> -->
 
