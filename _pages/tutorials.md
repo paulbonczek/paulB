@@ -6,7 +6,7 @@ description: Tutorials
 nav: false
 ---
 
-Under construction: <br>
+Under construction!! Will be updating soon: <br>
 1) Virtual Spring-Damper Meshes for Formation Multi-agent Control.
 2) How to Utilize Randomness for Attack Detection.
 
