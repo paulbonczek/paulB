@@ -24,7 +24,7 @@ I am recent Ph.D. graduate in Electrical Engineering at the University of Virgin
 <p style="font-size:16px;">  
 My Ph.D. research focused on cyber-physical system resiliency and safety, runtime attack detection algorithms, and resilient control and planning of single- and multi-agent autonomous systems. Other research topics that I find interesting and would like to explore in the future include: adaptive systems, tracking systems, learning algorithms for robots, machine learning / artificial intelligence, and robust state estimation in GPS-denied environments.</p>
 
-<p style="font-size:16px;">After graduation from UVA, I will join the Air and Missile Defense group at The Johns Hopkins University Applied Physics Laboratory.</p>
+<p style="font-size:16px;">After graduation from UVA, I have since joined the Networked Sensors and Integrated Fires Group within the Air and Missile Defense Sector at The Johns Hopkins University Applied Physics Laboratory.</p>
   
 <!--  <div style="width:50%; margin: 0 auto;"><img src="https://pauljbonczek.github.io/files/UVA_magazine.png" /></div> -->
 
