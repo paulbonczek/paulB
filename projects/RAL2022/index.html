@@ -10,10 +10,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Paul J Bonczek | blog</title>
+    <title>Paul J Bonczek | RA-L 2023 Submission</title>
     <meta name="author" content="Paul J Bonczek" />
-    <meta name="description" content="A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
-" />
+    <meta name="description" content="Cooperative Recovery for Safe Multirobot Operations" />
     <meta name="keywords" content="jekyll, jekyll-theme, academic-website, portfolio-website" />
 
 
@@ -32,7 +31,7 @@
     <!-- Styles -->
     <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22></text></svg>">
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="https://paulbonczek.github.io/blog/">
+    <link rel="canonical" href="https://paulbonczek.github.io/projects/RAL2022/">
 
     <!-- Dark Mode -->
     <script src="/assets/js/theme.js"></script>
@@ -94,8 +93,8 @@
                 </div>
               </li>
               <!-- Toogle theme mode -->
-              <div class = "toggle-container">
-                <a id = "light-toggle">
+              <div class="toggle-container">
+                <a id="light-toggle">
                   <i class="fas fa-moon"></i>
                   <i class="fas fa-sun"></i>
                 </a>
@@ -109,120 +108,63 @@
 
     <!-- Content -->
     <div class="container mt-5">
-      <div class="post">
+      <!-- page.html -->
+        <div class="post">
 
-  <div class="header-bar">
-    <h1></h1>
-    <h2>a simple whitespace theme for academics</h2>
-  </div>
+          <header class="post-header">
+            <h1 class="post-title">RA-L 2023 Submission</h1>
+            <p class="post-description">Cooperative Recovery for Safe Multirobot Operations</p>
+          </header>
 
+          <article>
+            <font size="+2.6">A Cooperative Recovery Framework for Safe Multi-robot Operations: Exploiting Randomness</font>
+<p><br></p>
 
-  <ul class="post-list">
-    
+<p>This work has been submitted to the IEEE Robotics and Automation Letters (RA-L) and is currently under review.</p>
 
-    
-    
-    
-    
+<p style="font-size:13px"><span style="font-size:14px"><b>Abstract:</b></span> Cooperative multi-robot systems (MRSs) coordinate their motion by utilizing control consensus schemes to perform desired tasks. In the event of stealthy cyber-attacks or faults to position sensors on individual robots, the loss of observability results in diminished control performance and could potentially hijack the MRS to undesired states. In this letter, we propose a framework to: i) generate a detectable hidden signal to alert neighboring robots of its loss of positioning sensing, and ii) a cooperative behavior of neighboring robots to aid in recovery (i.e., localization) of any compromised robots. To accomplish these objectives, we leverage a randomness-based approach to information exchange amongst robots to hide and detect the hidden signal. Furthermore, neighboring robots follow a known cooperative behavior to encircle any compromised robots to come within distance/range sensing to aid in recovery. Compromised robots then use particle filtering for re-localization by utilizing the received position information of neighboring robots (i.e., mobile landmarks) and the distance measurements of robots within on-board range sensing. Our framework is validated in simulation and experiments on proximity-based formations of unmanned ground vehicles (UGVs) in the presence of cyber-attacks or faults to localization sensors.</p>
 
-    <li>
-      <h3><a class="post-title" href="/blog/2021/diagrams/">a post with diagrams</a>
-      </h3>
-      <p>an example of a blog post with diagrams</p>
-      <p class="post-meta"> 3 min read &nbsp; &middot; &nbsp;
-        July 4, 2021
-      </p>
-      <p class="post-tags">
-        <a href="/blog/2021">
-          <i class="fas fa-calendar fa-sm"></i> 2021 </a>
+<div class="row row-cols-1 justify-content-center">
+    <!-- <div class="col-sm mt-3 mt-md-0"> -->
+    <div class="col-7">
+        <figure>
 
-          
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/RAL2022intro-480.webp"></source>
+    <source media="(max-width: 800px)" srcset="/assets/img/RAL2022intro-800.webp"></source>
+    <source media="(max-width: 1400px)" srcset="/assets/img/RAL2022intro-1400.webp"></source>
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/RAL2022intro.png" title="">
+  </picture>
 
-          
-    </p>
-    </li>
+</figure>
 
-    
-
-    
-    
-    
-    
-
-    <li>
-      <h3><a class="post-title" href="/blog/2021/distill/">a distill-style blog post</a>
-      </h3>
-      <p>an example of a distill-style blog post and main elements</p>
-      <p class="post-meta"> 7 min read &nbsp; &middot; &nbsp;
-        May 22, 2021
-      </p>
-      <p class="post-tags">
-        <a href="/blog/2021">
-          <i class="fas fa-calendar fa-sm"></i> 2021 </a>
-
-          
-
-          
-    </p>
-    </li>
-
-    
-
-    
-    
-    
-    
-
-    <li>
-      <h3><a class="post-title" href="/blog/2020/github-metadata/">a post with github metadata</a>
-      </h3>
-      <p>a quick run down on accessing github metadata.</p>
-      <p class="post-meta"> 1 min read &nbsp; &middot; &nbsp;
-        September 28, 2020
-      </p>
-      <p class="post-tags">
-        <a href="/blog/2020">
-          <i class="fas fa-calendar fa-sm"></i> 2020 </a>
-
-          
-
-          
-          &nbsp; &middot; &nbsp;
-            
-            <a href="/blog/category/sample-posts">
-              <i class="fas fa-tag fa-sm"></i> sample-posts</a> &nbsp;
-              
-            <a href="/blog/category/external-services">
-              <i class="fas fa-tag fa-sm"></i> external-services</a> &nbsp;
-              
-          
-    </p>
-    </li>
-
-    
-  </ul>
-
-  <nav aria-label="Blog page naviation">
-  <ul class="pagination pagination-lg justify-content-center">
-    <li class="page-item disabled">
-      <a class="page-link" href="" tabindex="-1" aria-disabled="">Newer</a>
-    </li><li class="page-item active"><a class="page-link" href="/blog/index.html" title="blog">1</a></li>
-      <li class="page-item "><a class="page-link" href="/blog/page/2/index.html" title="blog - page 2">2</a></li>
-      <li class="page-item "><a class="page-link" href="/blog/page/3/index.html" title="blog - page 3">3</a></li>
-      <li class="page-item ">
-      <a class="page-link" href="/blog/page/2/">Older</a>
-    </li>
-  </ul>
-</nav>
-
+    </div>
 </div>
+<div class="caption">
+    A depiction of the problem at hand, where neighboring robots create a cooperative motion to aid in localization recovery of a compromised robot suffering from cyber attacks or faulty on-board sensors.
+</div>
+
+<p>Today’s multi-robot systems are able to autonomously perform a wide variety of coordinated tasks for both civilian and military applications. With the use of multiple robots instead of only one, it is now possible to complete tasks faster and more efficiently, or perform tasks that are not possible with only a single robot. Examples of such operations that can benefit from the use of autonomous multi-robot systems are search and rescue operations, surveillance, military convoying, aerial vehicle formations, and exploration missions.</p>
+
+<p>Typically, operations that leverage multiple robots assume that all robots are behaving cooperatively while performing the desired tasks.
+However, these robots are susceptible to malicious cyber attacks or faults to their on-board positioning sensors that receive data from external sources (e.g., global positioning systems (GPS)) which can negatively impact swarming capability, thus affecting the entire system’s performance. Successful attackers are able to control the entire multi-robot system to an undesired location all while remaining hidden from anomaly detectors. Attackers in the past have demonstrated their ability to fool individual systems via stealthy attack sequences in cases such as: the GPS spoofing of a vessel and a GPS failure on an unmanned drone.</p>
+
+<p>In this work, we propose to leverage randomness to contain hidden data within stochastic system information to alert neighboring robots of malicious cyber-attacks/faults in multi-robot systems. For example, when a robot detects that its on-board position sensors for localization have been compromised, it could broadcast a detectable hidden signal to alert neighboring robots of its unreliable sensor information. This signal triggers the surrounding robots to cooperatively encircle the estimated robot location in a decentralized manner to come within sensing/visual range (i.e., to act a mobile landmarks) to aid in re-localizing the compromised robot (i.e., cooperative localization). We target mobile autonomous multi-robot systems that perform operations within unknown adversarial environments that are absent of landmarks that could be used for localization. Our approach is an extension of previous literature that utilize virtual spring-damper mesh models for decentralized formation control while formalizing a framework that provide to: i) generate hidden signals to alert neighboring robots of impending sensor attacks/faults and ii) cooperative multi-robot control behavior to aid in re-localizing compromised robots by acting as mobile landmarks.</p>
+
+<p>Videos will be included on this page once this work has been completed!</p>
+
+
+          </article>
+
+        </div>
 
     </div>
 
     <!-- Footer -->    
     <footer class="fixed-bottom">
       <div class="container mt-0">
-        &copy; Copyright 2023 Paul J Bonczek. Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/paulbonczek/paulbonczek">al-folio</a> theme.
+        © Copyright 2023 Paul J Bonczek. Powered by <a href="http://jekyllrb.com/" target="_blank" rel="noopener noreferrer">Jekyll</a> with <a href="https://github.com/paulbonczek/paulbonczek" target="_blank" rel="noopener noreferrer">al-folio</a> theme.
 
       </div>
     </footer>

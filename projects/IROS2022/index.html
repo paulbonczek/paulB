@@ -10,10 +10,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Paul J Bonczek | blog</title>
+    <title>Paul J Bonczek | IROS 2022</title>
     <meta name="author" content="Paul J Bonczek" />
-    <meta name="description" content="A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
-" />
+    <meta name="description" content="Resiliency to Controller Attacks" />
     <meta name="keywords" content="jekyll, jekyll-theme, academic-website, portfolio-website" />
 
 
@@ -32,7 +31,7 @@
     <!-- Styles -->
     <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22></text></svg>">
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="https://paulbonczek.github.io/blog/">
+    <link rel="canonical" href="https://paulbonczek.github.io/projects/IROS2022/">
 
     <!-- Dark Mode -->
     <script src="/assets/js/theme.js"></script>
@@ -94,8 +93,8 @@
                 </div>
               </li>
               <!-- Toogle theme mode -->
-              <div class = "toggle-container">
-                <a id = "light-toggle">
+              <div class="toggle-container">
+                <a id="light-toggle">
                   <i class="fas fa-moon"></i>
                   <i class="fas fa-sun"></i>
                 </a>
@@ -109,120 +108,60 @@
 
     <!-- Content -->
     <div class="container mt-5">
-      <div class="post">
+      <!-- page.html -->
+        <div class="post">
 
-  <div class="header-bar">
-    <h1></h1>
-    <h2>a simple whitespace theme for academics</h2>
-  </div>
+          <header class="post-header">
+            <h1 class="post-title">IROS 2022</h1>
+            <p class="post-description">Resiliency to Controller Attacks</p>
+          </header>
 
+          <article>
+            <font size="+2.6">Resilient Detection and Recovery of Autonomous Systems Operating under On-board Controller Cyber Attacks</font>
+<p><br></p>
 
-  <ul class="post-list">
-    
+<p>This work has been accepted to the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2022! Many of our simulation and experiment results can be found in this <a href="https://www.bezzorobotics.com/pb-iros22" target="_blank" rel="noopener noreferrer noopener noreferrer">link</a> to our lab website.</p>
 
-    
-    
-    
-    
+<p style="font-size:13px"><span style="font-size:14px"><b>Abstract:</b></span> Cyber-attacks, failures, and implementation errors inside the controller of an autonomous system can affect its correct behavior leading to unsafe states and degraded performance. In this paper we focus on such problems specifically on cyber-attacks that manipulate feedback control parameters that trigger different behaviors or block inputs based on specific values of the state and tracking error. If such attacks are undetected they can lead to the partial or complete loss of system's control authority hijacking and leading the autonomous system towards unforeseen states. To deal with this problem, we propose a runtime monitoring and recovery scheme in which: 1) we leverage the residual between the expected and the received measurements to detect inconsistencies in the generated inputs and 2) provide a recovery method for counteracting the malicious effects to allow for resilient operations by manipulating the reference signal and state vector provided to the system and avoid the affected regions in the state and error space. We validate our approach with extensive Matlab simulations and experiments on unmanned ground vehicles (UGVs) resiliently performing operations in the presence of malicious attacks to on-board controllers.</p>
 
-    <li>
-      <h3><a class="post-title" href="/blog/2021/diagrams/">a post with diagrams</a>
-      </h3>
-      <p>an example of a blog post with diagrams</p>
-      <p class="post-meta"> 3 min read &nbsp; &middot; &nbsp;
-        July 4, 2021
-      </p>
-      <p class="post-tags">
-        <a href="/blog/2021">
-          <i class="fas fa-calendar fa-sm"></i> 2021 </a>
+<div class="row row-cols-1 justify-content-center">
+    <div class="col-7">
+        <figure>
 
-          
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/IROS22_Intro4-480.webp"></source>
+    <source media="(max-width: 800px)" srcset="/assets/img/IROS22_Intro4-800.webp"></source>
+    <source media="(max-width: 1400px)" srcset="/assets/img/IROS22_Intro4-1400.webp"></source>
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/IROS22_Intro4.png" title="">
+  </picture>
 
-          
-    </p>
-    </li>
+</figure>
 
-    
-
-    
-    
-    
-    
-
-    <li>
-      <h3><a class="post-title" href="/blog/2021/distill/">a distill-style blog post</a>
-      </h3>
-      <p>an example of a distill-style blog post and main elements</p>
-      <p class="post-meta"> 7 min read &nbsp; &middot; &nbsp;
-        May 22, 2021
-      </p>
-      <p class="post-tags">
-        <a href="/blog/2021">
-          <i class="fas fa-calendar fa-sm"></i> 2021 </a>
-
-          
-
-          
-    </p>
-    </li>
-
-    
-
-    
-    
-    
-    
-
-    <li>
-      <h3><a class="post-title" href="/blog/2020/github-metadata/">a post with github metadata</a>
-      </h3>
-      <p>a quick run down on accessing github metadata.</p>
-      <p class="post-meta"> 1 min read &nbsp; &middot; &nbsp;
-        September 28, 2020
-      </p>
-      <p class="post-tags">
-        <a href="/blog/2020">
-          <i class="fas fa-calendar fa-sm"></i> 2020 </a>
-
-          
-
-          
-          &nbsp; &middot; &nbsp;
-            
-            <a href="/blog/category/sample-posts">
-              <i class="fas fa-tag fa-sm"></i> sample-posts</a> &nbsp;
-              
-            <a href="/blog/category/external-services">
-              <i class="fas fa-tag fa-sm"></i> external-services</a> &nbsp;
-              
-          
-    </p>
-    </li>
-
-    
-  </ul>
-
-  <nav aria-label="Blog page naviation">
-  <ul class="pagination pagination-lg justify-content-center">
-    <li class="page-item disabled">
-      <a class="page-link" href="" tabindex="-1" aria-disabled="">Newer</a>
-    </li><li class="page-item active"><a class="page-link" href="/blog/index.html" title="blog">1</a></li>
-      <li class="page-item "><a class="page-link" href="/blog/page/2/index.html" title="blog - page 2">2</a></li>
-      <li class="page-item "><a class="page-link" href="/blog/page/3/index.html" title="blog - page 3">3</a></li>
-      <li class="page-item ">
-      <a class="page-link" href="/blog/page/2/">Older</a>
-    </li>
-  </ul>
-</nav>
-
+    </div>
 </div>
+<div class="caption">
+    A pictorial representation of the problem investigated in this paper in which a robot is tasked to navigate toward a goal under a controller attack that gets activated only when the tracking error crosses a certain threshold (red region in the figure).
+</div>
+
+<p>Present-day autonomous robotic systems possess increased complexities to support an expanded array of computers and sensors to assist in advanced capabilities such as navigation, warehouse logistics, and industrial operations, towards truly unmanned operations. With such complexity, however, comes higher risks of malicious cyber attacks due to their unsupervised, autonomous applications and the numerous entry points to implement an attack.</p>
+
+<p>While the vast majority of the literature in robotics and cyber-physical systems security deal primarily with attacks on the sensing and communication infrastructure of a system, in this work we consider attacks that interfere with the control logic to hijack a system. For this class of attacks, parameter gains within a controller can be altered to trigger a different behavior under certain states or tracking errors.</p>
+
+<p>A cyber-attack on the on-board controller can cause inconsistencies from the expectation of this input-output model, leading to observable deviations from its nominal behavior. To this end we consider a residual-based monitoring approach that leverages the chi-square detection scheme to reduce the residual vector into a scalar test measure to detect controller integrity inconsistencies. Regions of the state space or the tracking error space that are deemed compromised are monitored for future operations to avoid them. A compensator to alter information provided to the controller (i.e., reference signal and state vector) is built to avoid any compromised regions within the state or tracking error space. Moreover, to deal with this problem of maintaining desirable control performance during operations, the altered information is designed to minimize the difference in the <i>compensated</i> control input signal in comparison to the originally intended (but compromised) control input.</p>
+
+<p>The contribution of this work is twofold: 1) a detection framework to discover compromised regions of the state or tracking error space within a controller that cause anomalous system behavior and 2) a compensator that alters the reference signal and state information provided to the controller in order to bypass compromised regions to achieve desired control performance to resiliently continue operations.</p>
+
+          </article>
+
+        </div>
 
     </div>
 
     <!-- Footer -->    
     <footer class="fixed-bottom">
       <div class="container mt-0">
-        &copy; Copyright 2023 Paul J Bonczek. Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/paulbonczek/paulbonczek">al-folio</a> theme.
+        © Copyright 2023 Paul J Bonczek. Powered by <a href="http://jekyllrb.com/" target="_blank" rel="noopener noreferrer">Jekyll</a> with <a href="https://github.com/paulbonczek/paulbonczek" target="_blank" rel="noopener noreferrer">al-folio</a> theme.
 
       </div>
     </footer>

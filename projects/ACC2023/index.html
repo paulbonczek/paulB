@@ -10,10 +10,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Paul J Bonczek | blog</title>
+    <title>Paul J Bonczek | ACC 2023</title>
     <meta name="author" content="Paul J Bonczek" />
-    <meta name="description" content="A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
-" />
+    <meta name="description" content="RSSI-based Localization with Adaptive Noise Covariance Estimation for Resilient Multi-Agent Formations" />
     <meta name="keywords" content="jekyll, jekyll-theme, academic-website, portfolio-website" />
 
 
@@ -32,7 +31,7 @@
     <!-- Styles -->
     <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22></text></svg>">
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="https://paulbonczek.github.io/blog/">
+    <link rel="canonical" href="https://paulbonczek.github.io/projects/ACC2023/">
 
     <!-- Dark Mode -->
     <script src="/assets/js/theme.js"></script>
@@ -94,8 +93,8 @@
                 </div>
               </li>
               <!-- Toogle theme mode -->
-              <div class = "toggle-container">
-                <a id = "light-toggle">
+              <div class="toggle-container">
+                <a id="light-toggle">
                   <i class="fas fa-moon"></i>
                   <i class="fas fa-sun"></i>
                 </a>
@@ -109,120 +108,89 @@
 
     <!-- Content -->
     <div class="container mt-5">
-      <div class="post">
+      <!-- page.html -->
+        <div class="post">
 
-  <div class="header-bar">
-    <h1></h1>
-    <h2>a simple whitespace theme for academics</h2>
-  </div>
+          <header class="post-header">
+            <h1 class="post-title">ACC 2023</h1>
+            <p class="post-description">RSSI-based Localization with Adaptive Noise Covariance Estimation for Resilient Multi-Agent Formations</p>
+          </header>
 
+          <article>
+            <font size="+2.6">Resilient Mobile Swarm Formations Using RSSI-based Localization in the Presence of Sensor Cyber Attacks and Faults</font>
+<p><br></p>
 
-  <ul class="post-list">
-    
+<p>This work has been accepted to the IEEE American Control Conference (ACC) 2023 and will be presented from May 31st - June 2nd in San Diego, CA, USA.</p>
 
-    
-    
-    
-    
+<p style="font-size:13px"><span style="font-size:14px"><b>Abstract:</b></span> Cooperative multi-agent swarms exchange reliable information to coordinate 
+  their motion in proximity-based control consensus schemes to complete a common objective. However, in the event of malicious cyber-attacks or faults to 
+  localization/position sensors (e.g., global positioning sensor (GPS)) on-board individual agents, global control performance may be compromised, resulting 
+  in a hijacking of the entire multi-agent system. For multi-agent systems that operate in unknown or landmark-less environments (e.g., open terrain or an 
+  ocean/sea), compromised agents can not rely on landmarks to aid in localization. To recover from these potential cyber-attacks/faults, we propose for 
+  compromised agents to leverage Received Signal Strength Indication (RSSI) from the other agents (i.e., mobile landmarks) as position measurements to aid 
+  in position estimation (i.e., localization). Furthermore, to minimize estimation error, agents with compromised localization sensors perform: i) RSSI-based 
+  multilateration that leverages received position information from neighboring agents as mobile landmarks; ii) weighted least squares (WLS) with hyperbolic 
+  weighting matrix for minimized error in RSSI-based position measurements; and iii) adaptive Kalman Filter (KF) to update the 
+  unknown RSSI-based measurement covariance matrix at runtime to minimize estimation error. The proposed decentralized framework is demonstrated with 
+  simulations on multi-agent swarm formations in the presence of cyber-attacks and faults to localization/position sensors.</p>
 
-    <li>
-      <h3><a class="post-title" href="/blog/2021/diagrams/">a post with diagrams</a>
-      </h3>
-      <p>an example of a blog post with diagrams</p>
-      <p class="post-meta"> 3 min read &nbsp; &middot; &nbsp;
-        July 4, 2021
-      </p>
-      <p class="post-tags">
-        <a href="/blog/2021">
-          <i class="fas fa-calendar fa-sm"></i> 2021 </a>
+<div class="row row-cols-1 justify-content-center">
+    <!-- <div class="col-sm mt-3 mt-md-0"> -->
+    <div class="col-7">
+        <figure>
 
-          
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/CDC_intro-480.webp"></source>
+    <source media="(max-width: 800px)" srcset="/assets/img/CDC_intro-800.webp"></source>
+    <source media="(max-width: 1400px)" srcset="/assets/img/CDC_intro-1400.webp"></source>
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/CDC_intro.png" title="">
+  </picture>
 
-          
-    </p>
-    </li>
+</figure>
 
-    
-
-    
-    
-    
-    
-
-    <li>
-      <h3><a class="post-title" href="/blog/2021/distill/">a distill-style blog post</a>
-      </h3>
-      <p>an example of a distill-style blog post and main elements</p>
-      <p class="post-meta"> 7 min read &nbsp; &middot; &nbsp;
-        May 22, 2021
-      </p>
-      <p class="post-tags">
-        <a href="/blog/2021">
-          <i class="fas fa-calendar fa-sm"></i> 2021 </a>
-
-          
-
-          
-    </p>
-    </li>
-
-    
-
-    
-    
-    
-    
-
-    <li>
-      <h3><a class="post-title" href="/blog/2020/github-metadata/">a post with github metadata</a>
-      </h3>
-      <p>a quick run down on accessing github metadata.</p>
-      <p class="post-meta"> 1 min read &nbsp; &middot; &nbsp;
-        September 28, 2020
-      </p>
-      <p class="post-tags">
-        <a href="/blog/2020">
-          <i class="fas fa-calendar fa-sm"></i> 2020 </a>
-
-          
-
-          
-          &nbsp; &middot; &nbsp;
-            
-            <a href="/blog/category/sample-posts">
-              <i class="fas fa-tag fa-sm"></i> sample-posts</a> &nbsp;
-              
-            <a href="/blog/category/external-services">
-              <i class="fas fa-tag fa-sm"></i> external-services</a> &nbsp;
-              
-          
-    </p>
-    </li>
-
-    
-  </ul>
-
-  <nav aria-label="Blog page naviation">
-  <ul class="pagination pagination-lg justify-content-center">
-    <li class="page-item disabled">
-      <a class="page-link" href="" tabindex="-1" aria-disabled="">Newer</a>
-    </li><li class="page-item active"><a class="page-link" href="/blog/index.html" title="blog">1</a></li>
-      <li class="page-item "><a class="page-link" href="/blog/page/2/index.html" title="blog - page 2">2</a></li>
-      <li class="page-item "><a class="page-link" href="/blog/page/3/index.html" title="blog - page 3">3</a></li>
-      <li class="page-item ">
-      <a class="page-link" href="/blog/page/2/">Older</a>
-    </li>
-  </ul>
-</nav>
-
+    </div>
 </div>
+<div class="caption">
+    A representation of the problem we want to solve in this work. In this scenario, Agent 1 (yellow) is using RSSI-based measurements for position localization while not considering information received from a compromised Agent 3.
+</div>
+
+<p>The recent use of mobile multi-agent systems (MASs) have allowed for increased performance and efficiency to complete autonomous operations/tasks as 
+compared to single robot operations. Specific examples that gain an advantage with the use of MASs include search and rescue maritime operations, 
+military convoying/platooning in open terrain, cooperative surveillance, and 
+exploration missions within unknown environments. To enable decentralized cooperative behavior to successfully accomplish operations, 
+consensus algorithms for formation control are used to allow agents to satisfy a desired global performance.</p>
+
+<p>Typically, approaches that utilize MASs make the assumption that all agents are cooperative during operations. A single uncooperative agent that shares 
+incorrect information can affect the performance of the entire swarm, thus preventing objectives from being accomplished and potentially hijacking the 
+swarm to undesired states. As a result, strategies for swarm resilience are of great concern to maintain system performance to effectively 
+complete desired operations. In this work, incorrect sharing of information by an agent can be due to on-board localization/position sensors that experience 
+malicious cyber-attacks or are defective/faulty. Compromised agents that no longer have a reliable sensor for position (i.e., loss of observability) lose 
+localization capabilities within the environment, which consequently diminishes formation control performance.</p>
+
+<p>The focus resides on the problem of resilient coordination in multi-agent mobile swarms that leverage control consensus schemes while maintaining 
+desired formations in open or unknown environments that do not offer landmarks for use in localization. To deal with this, the proposed framework 
+enables compromised agents to leverage Received Signal Strength Indication (RSSI) and received state (e.g., position) information from neighboring agents 
+(i.e., mobile landmarks) for localization. More specifically, multilateration is performed using measured RSSI and received neighboring agent’s states to 
+provide position measurements in replacement of the unreliable (i.e., compromised) on-board position sensors. To minimize the RSSI-based position measurements, 
+a weighted least squares (WLS) method is used with a hyperbolic weighting matrix that leverages the commonly utilized log-normal shadowing path loss model. Moreover, the RSSI-based position measurements have unknown covariance which differ from the nominal on-board position sensor. To 
+improve state estimation performance, compromised agents leverage an Adaptive Kalman Filter (AKF) 
+to estimate the position measurement covariance matrix at runtime. The proposed framework is introduced in a generalized manner that may be used on any 
+formation control technique for swarms of homogeneous linear time-invariant (LTI) modeled agents.</p>
+
+<p>Videos will be included on this page once this work has been completed!</p>
+
+
+          </article>
+
+        </div>
 
     </div>
 
     <!-- Footer -->    
     <footer class="fixed-bottom">
       <div class="container mt-0">
-        &copy; Copyright 2023 Paul J Bonczek. Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/paulbonczek/paulbonczek">al-folio</a> theme.
+        © Copyright 2023 Paul J Bonczek. Powered by <a href="http://jekyllrb.com/" target="_blank" rel="noopener noreferrer">Jekyll</a> with <a href="https://github.com/paulbonczek/paulbonczek" target="_blank" rel="noopener noreferrer">al-folio</a> theme.
 
       </div>
     </footer>

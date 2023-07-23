@@ -10,10 +10,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Paul J Bonczek | blog</title>
+    <title>Paul J Bonczek | ACC 2021</title>
     <meta name="author" content="Paul J Bonczek" />
-    <meta name="description" content="A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
-" />
+    <meta name="description" content="Serial Randomness Monitoring for Sensor Attack Detection" />
     <meta name="keywords" content="jekyll, jekyll-theme, academic-website, portfolio-website" />
 
 
@@ -32,7 +31,7 @@
     <!-- Styles -->
     <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22></text></svg>">
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="https://paulbonczek.github.io/blog/">
+    <link rel="canonical" href="https://paulbonczek.github.io/projects/ACC2021/">
 
     <!-- Dark Mode -->
     <script src="/assets/js/theme.js"></script>
@@ -94,8 +93,8 @@
                 </div>
               </li>
               <!-- Toogle theme mode -->
-              <div class = "toggle-container">
-                <a id = "light-toggle">
+              <div class="toggle-container">
+                <a id="light-toggle">
                   <i class="fas fa-moon"></i>
                   <i class="fas fa-sun"></i>
                 </a>
@@ -109,120 +108,81 @@
 
     <!-- Content -->
     <div class="container mt-5">
-      <div class="post">
+      <!-- page.html -->
+        <div class="post">
 
-  <div class="header-bar">
-    <h1></h1>
-    <h2>a simple whitespace theme for academics</h2>
-  </div>
+          <header class="post-header">
+            <h1 class="post-title">ACC 2021</h1>
+            <p class="post-description">Serial Randomness Monitoring for Sensor Attack Detection</p>
+          </header>
 
+          <article>
+            <font size="+2.6">Detection of Hidden Attacks on Cyber-Physical Systems from Serial Magnitude and Sign Randomness Inconsistencies</font>
+<p><br></p>
 
-  <ul class="post-list">
-    
+<p style="font-size:13px"><span style="font-size:14px"><b>Abstract:</b></span> Stealthy false data injection attacks on cyber-physical systems (CPSs) introduce erroneous measurement information to on-board sensors with the purpose to degrade system performance. An intelligent attacker is able to leverage knowledge of the system model and noise characteristics to alter sensor measurements while remaining undetected. To achieve this objective, the stealthy attack sequence is designed such that the detector performs  similarly in the attacked and attack-free cases. Consequently, an attacker that wants to remain hidden will leave behind traces of inconsistent behavior, contradicting the system model. To deal with this problem, we propose a runtime monitor to find these inconsistencies in sensor measurements by monitoring for <i>serial inconsistencies</i> of the detection test measure. Specifically, we employ the chi-square fault detection procedure to monitor the magnitude and signed sequence of its chi-square test measure.</p>
 
-    
-    
-    
-    
+<p>Modern cyber-physical systems (CPSs) have been the targets of malicious cyber-attacks due to their growing unsupervised, autonomous capabilities and many entry points to implement an attack. Their expanded complexities supported by an increased number of sensors and computers allow for autonomous capabilities in navigation, warehouse logistics, surveillance, warfare, and industrial operations. With a growing number of vulnerable access points for attackers on increasingly impactful systems in our society, it is crucial to provide tighter security measures to ensure proper performance and safety.</p>
 
-    <li>
-      <h3><a class="post-title" href="/blog/2021/diagrams/">a post with diagrams</a>
-      </h3>
-      <p>an example of a blog post with diagrams</p>
-      <p class="post-meta"> 3 min read &nbsp; &middot; &nbsp;
-        July 4, 2021
-      </p>
-      <p class="post-tags">
-        <a href="/blog/2021">
-          <i class="fas fa-calendar fa-sm"></i> 2021 </a>
+<p>An intelligent attacker is able to implement a malicious attack sequence to manipulate the system of interest, all while remaining undetected. The execution of such a stealthy attack allows the intelligent attacker to degrade system performance and potentially cause damage to the unknowingly compromised system. Previously demonstrated attacks of this nature include cases like: the GPS spoofing of a vessel, different sensor and communication attacks on vehicle technologies, and the infamous Stuxnet attack.</p>
 
-          
+<p>In general, an attacker needs to create inconsistent behavior with respect to the known model in order to hijack a system. In this work, we consider the chi-square detection scheme that generates a scalar quadratic <i>test measure</i> for attack detection. This test measure is extracted from the sum of squares of the residual vector — defined as the vector of differences between sensor measurements and the state prediction. To detect inconsistencies, we monitor the serial behavior of the test measure difference; specifically, we observe the characteristics of consecutive test measures throughout a sequence of measurement data and compare them to an expectation extracted from prior knowledge about the system model. Our proposed Serial Detector is then designed to generate an alarm rate at runtime for detection purposes to discover inconsistent magnitude and sign behavior due to deceptive sensor attacks. For more details, you can find our paper at <a href="https://ieeexplore.ieee.org/document/9482962" target="_blank" rel="noopener noreferrer noopener noreferrer">[IFAC ‘20]</a>.</p>
 
-          
-    </p>
-    </li>
+<div class="row row-cols-1 justify-content-center">
+    <!-- <div class="col-sm mt-3 mt-md-0"> -->
+    <div class="col-7">
+        <figure>
 
-    
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/AttackDiagram_ACC21-480.webp"></source>
+    <source media="(max-width: 800px)" srcset="/assets/img/AttackDiagram_ACC21-800.webp"></source>
+    <source media="(max-width: 1400px)" srcset="/assets/img/AttackDiagram_ACC21-1400.webp"></source>
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/AttackDiagram_ACC21.png" title="">
+  </picture>
 
-    
-    
-    
-    
+</figure>
 
-    <li>
-      <h3><a class="post-title" href="/blog/2021/distill/">a distill-style blog post</a>
-      </h3>
-      <p>an example of a distill-style blog post and main elements</p>
-      <p class="post-meta"> 7 min read &nbsp; &middot; &nbsp;
-        May 22, 2021
-      </p>
-      <p class="post-tags">
-        <a href="/blog/2021">
-          <i class="fas fa-calendar fa-sm"></i> 2021 </a>
-
-          
-
-          
-    </p>
-    </li>
-
-    
-
-    
-    
-    
-    
-
-    <li>
-      <h3><a class="post-title" href="/blog/2020/github-metadata/">a post with github metadata</a>
-      </h3>
-      <p>a quick run down on accessing github metadata.</p>
-      <p class="post-meta"> 1 min read &nbsp; &middot; &nbsp;
-        September 28, 2020
-      </p>
-      <p class="post-tags">
-        <a href="/blog/2020">
-          <i class="fas fa-calendar fa-sm"></i> 2020 </a>
-
-          
-
-          
-          &nbsp; &middot; &nbsp;
-            
-            <a href="/blog/category/sample-posts">
-              <i class="fas fa-tag fa-sm"></i> sample-posts</a> &nbsp;
-              
-            <a href="/blog/category/external-services">
-              <i class="fas fa-tag fa-sm"></i> external-services</a> &nbsp;
-              
-          
-    </p>
-    </li>
-
-    
-  </ul>
-
-  <nav aria-label="Blog page naviation">
-  <ul class="pagination pagination-lg justify-content-center">
-    <li class="page-item disabled">
-      <a class="page-link" href="" tabindex="-1" aria-disabled="">Newer</a>
-    </li><li class="page-item active"><a class="page-link" href="/blog/index.html" title="blog">1</a></li>
-      <li class="page-item "><a class="page-link" href="/blog/page/2/index.html" title="blog - page 2">2</a></li>
-      <li class="page-item "><a class="page-link" href="/blog/page/3/index.html" title="blog - page 3">3</a></li>
-      <li class="page-item ">
-      <a class="page-link" href="/blog/page/2/">Older</a>
-    </li>
-  </ul>
-</nav>
-
+    </div>
 </div>
+<div class="caption">
+    The Serial Detector is placed in the system feedback to monitor the test measure.
+</div>
+
+<p>Typical on-board fault detection mechanisms leverage an alarm-based system, such that during nominal conditions the rate of alarm triggers follows a desired alarm rate. <i>Hidden attacks</i> can be defined as designed attack sequences where the attack detector’s alarm rate behaves in the same manner as during nominal, attack-free conditions. If left undetected, an malicious attacker can hijack a system to an undesired state without the system realizing that an attack is present, thus it is imperative to provide tighter security measures for autonomous systems.</p>
+
+<div class="row row-cols-1 justify-content-center">
+    <!-- <div class="col-sm mt-3 mt-md-0"> -->
+    <div class="col-7">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/HiddenAttack_PDF2-480.webp"></source>
+    <source media="(max-width: 800px)" srcset="/assets/img/HiddenAttack_PDF2-800.webp"></source>
+    <source media="(max-width: 1400px)" srcset="/assets/img/HiddenAttack_PDF2-1400.webp"></source>
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/HiddenAttack_PDF2.png" title="">
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+<div class="caption">
+    (top) The chi-square distribution of 4 degrees of freedom (dof). A correctly chosen threshold value results in the test measure exceeding the threshold at a desired rate of in the attack-free case. Similarly, during a hidden attack (bottom), an attacker can design an attack sequence such that the alarm rate matches the desired alarm rate, all while altering the distribution of and remaining hidden from detection.
+</div>
+
+
+          </article>
+
+        </div>
 
     </div>
 
     <!-- Footer -->    
     <footer class="fixed-bottom">
       <div class="container mt-0">
-        &copy; Copyright 2023 Paul J Bonczek. Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/paulbonczek/paulbonczek">al-folio</a> theme.
+        © Copyright 2023 Paul J Bonczek. Powered by <a href="http://jekyllrb.com/" target="_blank" rel="noopener noreferrer">Jekyll</a> with <a href="https://github.com/paulbonczek/paulbonczek" target="_blank" rel="noopener noreferrer">al-folio</a> theme.
 
       </div>
     </footer>
